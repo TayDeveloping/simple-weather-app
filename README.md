@@ -65,6 +65,7 @@ This project is licensed under the MIT License.
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
 - [Unsplash](https://unsplash.com/) for background images.
+- **Devression** on YouTube
 
 ## Contact
 
