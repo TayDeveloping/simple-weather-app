@@ -74,4 +74,4 @@ If you have any questions or suggestions, feel free to contact me!
 ## Development
 
 https://taydeveloping.github.io/simple-weather-app/
-[!Weather app](./assets/Screenshot%20(405).png)
+![Weather app](./assets/Screenshot%20(405).png)
